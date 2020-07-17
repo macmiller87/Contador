@@ -1,0 +1,24 @@
+body {
+    background: rgb(86, 225, 230); /* Comentar no CSS */
+}
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+section {
+    background: white;
+    height: 400px;
+    margin: auto;
+    width: 400px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(0,0,0,0,0,0);
+} 
+
+footer {
+    text-align: center;
+    color: black;
+}
